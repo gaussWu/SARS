@@ -1,0 +1,2 @@
+facebook;video:1.2;new friend:0.2;friend:2
+twitter;news:1.2;people:0.2;friend:2
